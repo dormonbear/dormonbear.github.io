@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DORMON&#39;S BLOG</title>
+  
+  <subtitle>都是些乱七八糟的东西</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://dormon.net/"/>
+  <updated>2018-06-06T14:17:45.229Z</updated>
+  <id>http://dormon.net/</id>
+  
+  <author>
+    <name>dormon</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://dormon.net/2018/06/06/test/"/>
+    <id>http://dormon.net/2018/06/06/test/</id>
+    <published>2018-06-06T14:17:45.000Z</published>
+    <updated>2018-06-06T14:17:45.229Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
